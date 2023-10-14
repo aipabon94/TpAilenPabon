@@ -1,0 +1,79 @@
+
+h1 {
+    
+    font-size: 30px;
+
+}
+
+h4{
+padding-top: 0.9rem;
+
+}
+header {
+    padding: 0.5rem;
+    text-align: center;
+    background: #8043a8;
+    color: white;
+    font-size: 25px;
+  }
+
+  img {
+    margin: 0 auto; /* Centrar horizontalmente */
+    display: block;
+    max-width: 100%;
+    border: 1px solid #888;
+    box-shadow: 0 0.5em 0.3em #888;
+    margin-bottom: 1.25em;
+    max-height: 500px; /* Ajusta según sea necesario */
+    overflow-y: auto;
+    margin-top: 20px;
+    align-items: center;
+    
+  }
+
+  .hidden {
+    display: none;}
+
+    footer {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 20px;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        margin-top: 20px; 
+        
+    }
+    footer  {
+        background-color: #8043a8;
+        margin: 0;
+        padding: 5px;
+        margin-top: 20px; 
+        
+    }
+    #personal{
+        display: block;
+        margin: 0 auto; 
+        max-width: 25%; 
+        height: auto; 
+    }
+    #centrar{
+        margin: 0 auto; 
+        max-width :70rem
+    }
+    #centrar button {
+        margin: 0 auto;
+        display: block;
+    }
+    #imageContainer {
+        margin: 0 auto; /* Centrar horizontalmente */
+        margin-bottom: 20px; /* Espacio entre imágenes y footer */
+    }
+    
+    
+    
+    
+    
+    
+    
